@@ -1,0 +1,1 @@
+java -cp "..\lib\*" com.vereview.MainApp dbName=case_10_2941 imageType=ORIGINAL exportDir=C:\imageExport\case_10_2941 env=DEV
